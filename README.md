@@ -1,4 +1,6 @@
-# PyMOL Ask Gemini Advisor
+# PyMOL AI Chat
+
+**Keywords**: Gemini, free API-KEY, ChatGPT like, Permanently integrated
 
 # `askgemini.py`
 
@@ -42,7 +44,9 @@ An integrated, dark-mode customized AI side-panel for PyMOL powered by the Googl
 - Model Selection: Use the dropdown at the top to manually switch between models (e.g.,` gemini-3.5-flash`, `gemini-3.8-flash`).
 
 
-# PyMOL Auto-Executing Gemini Assistant 
+# PyMOL AI Automatic Execution
+
+**Keywords:** PyMOL AI chat, Automatic execution, Gemini, Plugin
 
 # `ask_and_rungemini.py`
 
